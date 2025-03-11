@@ -1,4 +1,4 @@
-## olá seja bem-vindo👋
+## olá seja bem-vindo ao meu perfil👋
 estou aprendendo programacao
 ## projetos
 1. exercicios python
