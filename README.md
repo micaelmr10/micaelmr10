@@ -6,7 +6,7 @@ estou aprendendo programacao
 3. alua de html
 4. aula de desktop
 5. projeto vagalume 2.0
-6. 
+
 
 
 <!--
