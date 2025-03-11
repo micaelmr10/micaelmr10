@@ -1,6 +1,12 @@
 ## olá seja bem-vindo👋
 estou aprendendo programacao
 ## projetos
+1. exercicios python
+2. atividade em portugol
+3. alua de html
+4. aula de desktop
+5. projeto vagalume 2.0
+6. 
 
 
 <!--
