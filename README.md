@@ -3,7 +3,7 @@ estou aprendendo programação
 ## projetos
 1. exercicios python
 2. atividade em portugol
-3. alua de html
+3. aula de html
 4. aula de desktop
 5. projeto vagalume 2.0
 
