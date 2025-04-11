@@ -1,5 +1,5 @@
 ## olá seja bem-vindo ao meu perfil👋
-estou aprendendo programacao
+estou aprendendo programação 
 ## projetos
 1. exercicios python
 2. atividade em portugol
